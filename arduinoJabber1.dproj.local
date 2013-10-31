@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.dfm,C:\Users\Eee\Documents\RAD Studio\Projects\Unit1.dfm=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dproj,C:\Users\Eee\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\Eee\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dproj,C:\shareware 2009\arduino-jabber\arduinoJabber1.dproj=C:\Users\Eee\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,C:\Users\Eee\Documents\RAD Studio\Projects\Unit1.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
